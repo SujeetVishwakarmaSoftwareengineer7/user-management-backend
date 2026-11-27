@@ -1,3 +1,0 @@
-schema - define the structure
-   schema - model 
-   using this model we will use crud operation
